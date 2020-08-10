@@ -5,7 +5,7 @@
 - :school: 3rd year student at Oxford studying Maths and Computer Science
 - :heart: ML/Big Data Fan (pun not intended)
 - :medal_sports: Honourable Mention in Algoexpert Software Engineering Project Contest Winter 2020
-(see project <a href="www.google.com">here</a>
+(my project: the <a href="https://github.com/LyndonFan/NonogramMaker">Nonogram Maker</a>!)
 - :muscle: 2-time participant in Citadel Datathons
 
 - 🌱 Currently learning new stuff related machine learning, data analysis, or just other things for fun
