@@ -10,8 +10,3 @@
 Email: lyndon (zero) (eight) (repeat the numbers) (at) (gmail.youknowtherest)
 
 ### Languages and Tools (in order of familiarity):
-
-[<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />]
-<br>
-[<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />]
