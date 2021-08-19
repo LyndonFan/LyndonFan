@@ -25,5 +25,6 @@
 <p float="left">
   <img width="50px" alt="VisualStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img width="50px" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img width="50px" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img width="50px" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="background-color:white;">
+  <img width="50px" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </p>
