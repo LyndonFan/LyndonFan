@@ -3,7 +3,7 @@
 
 ### Who am I?
 - :school: 4th year student at Oxford studying Maths and Computer Science
-- :heart: Big Data/ML Fan (pun not intended)
+- :heart: Data Science/ML Fan (pun not intended)
 - :medal_sports: Honourable Mention in Algoexpert Software Engineering Project Contest Winter 2020
 (my project: the <a href="https://github.com/LyndonFan/NonogramMaker">Nonogram Maker</a>!)
 - :muscle: 2-time participant in Citadel Datathons
