@@ -9,8 +9,8 @@
 - :muscle: 2-time participant in Citadel Datathons
 
 - 🌱 Currently learning new stuff related machine learning, data analysis, or just other things for fun
-- 🥅 2021 Goals: Learn a new language or skill (in programming and/or other aspects)
-- :zany_face: Fun fact: I love board games and card games, especially MTG (and a bit too much...)
+- 🥅 2022 Goals: Learn a new language or skill (in programming and/or other aspects)
+- :zany_face: Fun fact: I love board games and card games and DnD, especially MTG (and a bit too much...)
 
 ### Connect with me:
 - Email: lyndon (zero) (eight) (repeat the numbers) (at) (gmail.youknowtherest)
