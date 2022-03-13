@@ -13,7 +13,7 @@
 - :zany_face: Fun fact: I love board games and card games and DnD, especially MTG (and a bit too much...)
 
 ### Connect with me:
-- Email: lyndon (zero) (eight) (repeat the numbers) (at) (gmail.youknowtherest)
+- Email: lyndon0808@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lyndon-fan-a36956195/
 
 ### Languages and Tools (in order of familiarity):
