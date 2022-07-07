@@ -2,7 +2,7 @@
 ### Hi there, I'm Lyndon 👋
 
 ### Who am I?
-- :school: 4th year student at Oxford studying Maths and Computer Science
+- :school: Recent graduate from Oxford, studied Maths and Computer Science
 - :heart: Data Science/ML Fan (pun not intended)
 - :medal_sports: Honourable Mention in Algoexpert Software Engineering Project Contest Winter 2020
 (my project: the <a href="https://github.com/LyndonFan/NonogramMaker">Nonogram Maker</a>!)
