@@ -3,13 +3,13 @@
 
 ### Who am I?
 - :school: Recent graduate from Oxford, studied Maths and Computer Science
-- :heart: Data Science/ML Fan (pun not intended)
+- :heart: Data Engineering / Data Science/ML Fan (pun not intended)
 - :medal_sports: Honourable Mention in Algoexpert Software Engineering Project Contest Winter 2020
 (my project: the <a href="https://github.com/LyndonFan/NonogramMaker">Nonogram Maker</a>!)
 - :muscle: 2-time participant in Citadel Datathons
 
 - 🌱 Currently learning new stuff related machine learning, data analysis, or just other things for fun
-- 🥅 2022 Goals: Learn a new language or skill (in programming and/or other aspects)
+- 🥅 2023 Goals: Learn a new language or skill (in programming and/or other aspects)
 - :zany_face: Fun fact: I love board games and card games and DnD, especially MTG (and a bit too much...)
 
 ### Connect with me:
