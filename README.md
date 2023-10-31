@@ -16,6 +16,7 @@
 - LinkedIn: https://www.linkedin.com/in/lyndon-fan-a36956195/
 
 ### Languages and Tools (in order of familiarity):
+
 <p float="left">
   <img width="50px" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img width="50px" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -28,7 +29,11 @@
 </p>
 <p float="left">
   <img width="50px" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img width="50px" alt="GitHub" src="https://user-images.githubusercontent.com/22367820/234717468-3412118d-dc4e-4b2d-a588-6cb11bc7e2c7.png">
+  <picture>
+    <source width="50px" media="(prefers-color-scheme: dark)" src="https://user-images.githubusercontent.com/22367820/234717468-3412118d-dc4e-4b2d-a588-6cb11bc7e2c7.png">
+    <source width="50px" media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img width="50px" alt="GitHub" src="https://user-images.githubusercontent.com/22367820/234717468-3412118d-dc4e-4b2d-a588-6cb11bc7e2c7.png">
+  </picture>
   <img width="50px" alt="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
   <img width="50px" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="background-color:white;">
 </p>
