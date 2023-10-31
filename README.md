@@ -30,8 +30,8 @@
 <p float="left">
   <img width="50px" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <picture>
-    <source width="50px" media="(prefers-color-scheme: dark)" src="https://user-images.githubusercontent.com/22367820/234717468-3412118d-dc4e-4b2d-a588-6cb11bc7e2c7.png">
-    <source width="50px" media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <source width="50px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/22367820/234717468-3412118d-dc4e-4b2d-a588-6cb11bc7e2c7.png">
+    <source width="50px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img width="50px" alt="GitHub" src="https://user-images.githubusercontent.com/22367820/234717468-3412118d-dc4e-4b2d-a588-6cb11bc7e2c7.png">
   </picture>
   <img width="50px" alt="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
