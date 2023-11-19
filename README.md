@@ -21,6 +21,7 @@
   <img width="50px" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img width="50px" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img width="50px" alt="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img width="50px" alt="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
 </p>
 <p float="left">
   <img width="50px" alt="Google Cloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
