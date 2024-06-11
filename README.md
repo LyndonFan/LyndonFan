@@ -24,8 +24,8 @@
   <img width="50px" alt="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </p>
 <p float="left">
-  <img width="50px" alt="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img width="50px" alt="Terraform" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
+  <img width="50px" alt="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img width="50px" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img width="50px" alt="Google Cloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
 </p>
