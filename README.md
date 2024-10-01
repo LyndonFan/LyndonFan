@@ -3,17 +3,16 @@
 
 ### Who am I?
 - 💼 Software Development Engineer at EMIS
-- :school: Recent graduate from Oxford, studied Maths and Computer Science
-- :heart: Software Engineering / Data Engineering / ML Fan (pun not intended)
-- :medal_sports: Honourable Mention in Algoexpert Software Engineering Project Contest Winter 2020
-(my project: the <a href="https://github.com/LyndonFan/NonogramMaker">Nonogram Maker</a>!)
+- 🏫 Recent graduate from Oxford, studied Maths and Computer Science
+- ❤️ Software Engineering / Data Engineering / ML Fan (pun not intended)
+- 🃏 Co-author of [Harley, a dev productivity library for polars](https://github.com/TomBurdge/harley)
 - 🌱 Currently learning new stuff related to SWE / data / backend / ML, or just other things for fun
 - 🥅 2024 Goals: Actually use a new language. Maybe Go / Rust?
 - :zany_face: Fun fact: I love board games and D&D and card games, especially MTG
 
 ### Connect with me:
-- Email: lyndon0808@gmail.com
-- LinkedIn: https://www.linkedin.com/in/lyndon-fan-a36956195/
+- Email: [lyndon0808@gmail.com](<mailto:lyndon0808@gmail.com?subject=Hello from GitHub>)
+- LinkedIn: <https://www.linkedin.com/in/lyndon-fan/>
 
 ### Languages and Tools (in order of familiarity):
 
