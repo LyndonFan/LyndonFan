@@ -3,11 +3,11 @@
 
 ### Who am I?
 - 💼 Software Development Engineer at EMIS
-- 🏫 Recent graduate from Oxford, studied Maths and Computer Science
-- ❤️ Software Engineering / Data Engineering / ML Fan (pun not intended)
 - 🃏 Co-author of [Harley, a dev productivity library for polars](https://github.com/TomBurdge/harley)
+- ❤️ Software Engineering / Data Engineering / ML Fan (pun not intended)
 - 🌱 Currently learning new stuff related to SWE / data / backend / ML, or just other things for fun
-- 🥅 2024 Goals: Actually use a new language. Maybe Go / Rust?
+- 🥅 2025 Goals: Actually use a new language. Maybe Go / Rust?
+- 🏫 Graduated from Oxford, studied Maths and Computer Science
 - :zany_face: Fun fact: I love board games and D&D and card games, especially MTG
 
 ### Connect with me:
