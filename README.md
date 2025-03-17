@@ -2,7 +2,7 @@
 ### Hi there, I'm Lyndon 👋
 
 ### Who am I?
-- 💼 Software Development Engineer at EMIS
+- 💼 Software Development Engineer at [OptumUK (who acquired EMIS)](https://www.emishealth.com/news-insights/emis-is-now-optum)
 - 🃏 Co-author of [Harley, a dev productivity library for polars](https://github.com/TomBurdge/harley)
 - ❤️ Software Engineering / Data Engineering / ML Fan (pun not intended)
 - 🌱 Currently learning new stuff related to SWE / data / backend / ML, or just other things for fun
