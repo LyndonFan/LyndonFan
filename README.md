@@ -2,10 +2,10 @@
 ### Hi there, I'm Lyndon 👋
 
 ### Who am I?
-- 💼 Software Development Engineer at [OptumUK (who acquired EMIS)](https://www.emishealth.com/news-insights/emis-is-now-optum)
+- 💼 A data engineer at a certain global finance institution
 - 🃏 Co-author of [Harley, a dev productivity library for polars](https://github.com/TomBurdge/harley)
 - ❤️ Software Engineering / Data Engineering / ML Fan (pun not intended)
-- 🌱 Currently learning new stuff related to SWE / data / backend / ML, or just other things for fun
+- 🌱 Currently learning new stuff related to data / SWE / ML, or just other things for fun
 - 🥅 2025 Goals: Actually use a new language. Maybe Go / Rust?
 - 🏫 Graduated from Oxford, studied Maths and Computer Science
 - :zany_face: Fun fact: I love board games and D&D and card games, especially MTG
